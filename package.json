@@ -21,7 +21,7 @@
     "gentelella": "^1.4.0",
     "handlebars": "^4.7.6",
     "mysql2": "^2.3.3",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.33.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
