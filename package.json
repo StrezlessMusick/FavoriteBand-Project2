@@ -20,7 +20,7 @@
     "express-session": "^1.17.1",
     "gentelella": "^1.4.0",
     "handlebars": "^4.7.6",
-    "mysql2": "^2.3.3",
+    "mysql2": "^3.9.8",
     "sequelize": "^6.3.5"
   },
   "devDependencies": {
